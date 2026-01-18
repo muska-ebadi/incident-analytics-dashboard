@@ -18,6 +18,14 @@ The system follows a clean separation between frontend and backend, similar to r
 
 ---
 
+## System Architecture
+
+This project follows a clean full-stack architecture with a React frontend and Spring Boot backend.
+
+[View System Architecture Diagram](./docs/architecture.md)
+
+---
+
 ## Key Features
 
 ### Analytics & Monitoring
@@ -123,7 +131,7 @@ npm run dev
 Runs on:
 http://localhost:5173
 
-
+---
 
 Future Improvements
 
@@ -136,6 +144,8 @@ Webhook or Slack integrations
 Automated escalation rules
 
 Containerization and cloud deployment
+
+---
 
 What This Project Demonstrates
 
